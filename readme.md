@@ -24,7 +24,7 @@ This repository contains a list of learning resources organized by levels for va
 
 ### Docker
 
-- [Docker سلسلة تعلم](#) (Resource link missing)
+- [Docker سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ) 
 
 ### Spark
 
@@ -40,7 +40,7 @@ This repository contains a list of learning resources organized by levels for va
 
 ### Hive
 
-- [Hive Tutorial](#) (Resource link missing)
+- [Hive Tutorial](https://www.youtube.com/watch?v=rr17cbPGWGA) 
 
 ### MySQL
 
@@ -60,12 +60,13 @@ This repository contains a list of learning resources organized by levels for va
 
 - [Introduction to the Avro Data Format](https://sqream.com/blog/a-detailed-introduction-to-the-avro-data-format/)
 - [Demystifying the Parquet File Format](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)
-- [Parquet, Avro, RC, ORC File Formats in Hadoop](#) (Resource link missing)
+- [Cambridge Spark Free Webinar - Making Sense of Big Data File Formats](https://www.youtube.com/watch?v=RwGGqwe-SAY)
+- [Parquet, Avro, RC, ORC File Formats in Hadoop](https://www.youtube.com/watch?v=jKfKmBdPuT4) 
 - [The Parquet Format (Databricks)](https://www.youtube.com/watch?v=RwGGqwe-SAY) (till 30:14)
 
 ### Apache Airflow
 
-- [Airflow Tutorial for Beginners](#) (Resource link missing)
+- [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT) 
 - [Apache Airflow Udemy Course](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 - "Data Pipelines with Apache Airflow"
 
@@ -88,7 +89,7 @@ This repository contains a list of learning resources organized by levels for va
 
 ### Networking
 
-- [Intro into Networking Fundamentals](#) (Resource link missing)
+- [Intro into Networking Fundamentals](https://www.youtube.com/watch?v=6hPMdpk9qA4&list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1) 
 
 ## Contribution
 
