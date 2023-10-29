@@ -12,7 +12,7 @@ This repository contains a list of learning resources organized by levels for va
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/)
 - "Learning SQL, 2nd Edition" (Skip Chapters 1, 2, 15)
 - "Database System Concepts, 7th Edition" (Chapters 3, 4, 5, 15, 16)
-- [YouTube - SQL Tutorial](https://youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7&si=Gj7a2VXK2FWmQXVc) (Advanced)
+- [CMU - Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7&si=Gj7a2VXK2FWmQXVc) **Advanced** | (First 15 sessions or at least the first 2 sessions)
 
 ### Data Modeling
 
@@ -20,7 +20,7 @@ This repository contains a list of learning resources organized by levels for va
 - [PK Group Data Modeling](https://pk-group.weebly.com/)
 - [Data Modeling Essentials](https://pk-group.weebly.com/data-modeling-essentials.html)
 - [Bank Data Model](https://dwbi1.wordpress.com/2012/04/28/bank-data-model/)
-- Data Warehousing Tutorial Videos
+- [Data Warehousing Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX)
 
 ### Docker
 
@@ -29,7 +29,7 @@ This repository contains a list of learning resources organized by levels for va
 ### Spark
 
 - [Spark Foundation Training](https://www.learningjournal.guru/courses/spark/spark-foundation-training/)
-- [Apache Spark & Scala Tutorial Videos (2022 Updated)](#)
+- [Apache Spark & Scala Tutorial Videos (2022 Updated)](https://www.youtube.com/playlist?list=PLEiEAq2VkUUK3tuBXyd01meHuDj7RLjHv)
 - "Learning Spark"
 - "Apache Spark with Python - Big Data with PySpark and Spark" (Course)
 
@@ -44,7 +44,7 @@ This repository contains a list of learning resources organized by levels for va
 
 ### MySQL
 
-- [MySQL Full Course 2023 | MySQL Tutorial For Beginners | SQL Full Course | SQL Training | Simplilearn](#)
+- [MySQL Full Course 2023 | MySQL Tutorial For Beginners | SQL Full Course | SQL Training | Simplilearn](https://www.youtube.com/watch?v=SycDH3NSJUU)
 
 ## Level 2
 
@@ -72,12 +72,14 @@ This repository contains a list of learning resources organized by levels for va
 
 ### MongoDB
 
-- [Complete MongoDB Tutorial](https://learn.mongodb.com/catalog)
+- [Complete MongoDB Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+- [MongoDB Documentation](https://learn.mongodb.com/catalog)
+
 
 ### Kafka
 
 - [Kafka Foundation Training](https://www.learningjournal.guru/courses/kafka/kafka-foundation-training/)
-- [Apache Kafka 101 for Beginners Course Trailer (2023)](#)
+- [Apache Kafka 101 for Beginners Course Trailer (2023)](https://www.youtube.com/watch?v=j4bqyAMMb7o&list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)
 - "Apache Kafka: The Definitive Guide"
 
 ### PostgreSQL
