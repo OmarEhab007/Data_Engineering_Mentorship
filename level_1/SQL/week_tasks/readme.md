@@ -3,7 +3,7 @@
 - **30/10**
     - [ ] Maharatech DB Fundamentals
     - [ ] SQL Joins
-    - [ ] [StrataScratch Challenge - Customer Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)
+    - [x] [StrataScratch Challenge - Customer Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)
 
 - **31/10**
     - [ ] Maharatech DB Fundamentals
