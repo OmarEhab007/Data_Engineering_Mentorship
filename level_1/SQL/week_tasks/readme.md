@@ -17,7 +17,7 @@
     - [x] [StrataScratch Challenge - Finding Updated Records](https://platform.stratascratch.com/coding/10299-finding-updated-records)
 
 - **2/11**
-    - [ ] Database System Concepts (Chapter 14) Pages (623-643)
+    - [x] Database System Concepts (Chapter 14) Pages (623-643)
     - [x] SQL Aggregate window functions (Sum, Max, Count)
     - [x] [StrataScratch Challenge - Find Artists with Most Spotify Appearances](https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=1)
     - Presentation By: Abdelrahman Omar (Correlated Subquery)
@@ -27,14 +27,14 @@
     - Follow up on previous days
 
 - **4/11**
-    - [ ] Database System Concepts (Chapter 14) Pages (643-663)
-    - [ ] SQL Value window functions (Lead, Lag, First_value)
+    - [x] Database System Concepts (Chapter 14) Pages (643-663)
+    - [x] SQL Value window functions (Lead, Lag, First_value)
     - [x] [StrataScratch Challenge - Workers with the Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries)
     - Presentation By: Omar Ehab (Column Oriented Storage)
 
 - **5/11**
-    - [ ] Database System Concepts (Chapter 14) Pages (663-677)
-    - [ ] SQL Ranking window functions (Rank, dense_rank, row_number)
+    - [x] Database System Concepts (Chapter 14) Pages (663-677)
+    - [x] SQL Ranking window functions (Rank, dense_rank, row_number)
     - [ ] Work towards Hackerrank SQL badge
 
 - **6/11**
