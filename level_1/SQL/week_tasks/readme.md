@@ -35,15 +35,15 @@
 - **5/11**
     - [x] Database System Concepts (Chapter 14) Pages (663-677)
     - [x] SQL Ranking window functions (Rank, dense_rank, row_number)
-    - [ ] Work towards Hackerrank SQL badge
+    - [x] Work towards Hackerrank SQL badge
 
 - **6/11**
-    - [ ] Database System Concepts (Chapter 21) Pages (1003-1008)
-    - [ ] Work towards Hackerrank SQL badge
+    - [x] Database System Concepts (Chapter 21) Pages (1003-1008)
+    - [x] Work towards Hackerrank SQL badge
     - Presentation By: Mohamed Abdelkarim (Aggregate functions VS Aggregate window functions)
 
 - **7/11**
-    - [ ] Work towards Hackerrank SQL badge
+    - [x] Work towards Hackerrank SQL badge
     - Follow up on previous days
 
 - **8/11**
