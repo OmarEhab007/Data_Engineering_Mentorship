@@ -47,17 +47,17 @@
     - Follow up on previous days
 
 - **8/11**
-    - [ ] ACID rules
-    - [ ] Work towards Hackerrank SQL badge
+    - [x] ACID rules
+    - [x] Work towards Hackerrank SQL badge
     - Presentation By: Alaa Nagy (B-tree index)
 
 - **9/11**
     - [ ] Triggers
-    - [ ] Finish Hackerrank SQL Badge Level 5
+    - [x] Finish Hackerrank SQL Badge Level 5
 
 - **10/11**
     - [ ] Triggers
-    - [ ] [StrataScratch Challenge - Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)
+    - [x] [StrataScratch Challenge - Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)
 
 
 ```
