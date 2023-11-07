@@ -52,11 +52,11 @@
     - Presentation By: Alaa Nagy (B-tree index)
 
 - **9/11**
-    - [ ] Triggers
+    - [x] Triggers
     - [x] Finish Hackerrank SQL Badge Level 5
 
 - **10/11**
-    - [ ] Triggers
+    - [x] Triggers
     - [x] [StrataScratch Challenge - Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)
 
 
