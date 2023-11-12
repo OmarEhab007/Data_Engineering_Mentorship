@@ -16,7 +16,7 @@ This repository contains a list of learning resources organized by levels for va
 - [HackerRank SQL problems](https://www.hackerrank.com/domains/sql)
 - "Learning SQL, 2nd Edition" (Skip Chapters 1, 2, 15)
 - "Database System Concepts, 7th Edition" (Chapters 3, 4, 5, 15, 16)
-- [CMU - Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7&si=Gj7a2VXK2FWmQXVc) **Advanced** | (First 15 sessions or at least the first 2 sessions)
+- [CMU - Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g) **Advanced** | (First 15 sessions or at least the first 2 sessions)
 
 ### Data Modeling
 
