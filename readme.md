@@ -10,6 +10,8 @@ This repository contains a list of learning resources organized by levels for va
 ### SQL
 
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) (Practice)
+- [Leetcode](https://leetcode.com/) (Practice)
+- [HackerRank](https://www.hackerrank.com/) (Practice)
 - [SQLBolt](https://sqlbolt.com/lesson/introduction)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/)
@@ -94,7 +96,19 @@ This repository contains a list of learning resources organized by levels for va
 
 ### Networking
 
-- [Intro into Networking Fundamentals](https://www.youtube.com/watch?v=6hPMdpk9qA4&list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1) 
+- [Intro into Networking Fundamentals](https://www.youtube.com/watch?v=6hPMdpk9qA4&list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1)
+
+### Cloud
+
+#### Amazon Web Services
+##### Cloud Practitioner (Cloud Foundations)
+
+- [AWS Skill Builder: Cloud Essentials](https://explore.skillbuilder.aws/learn/lp/82/cloud-essentials-knowledge-badge-readiness-path)
+- [Kenneth Leungty: Certified Cloud Practitioner Notes](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes/tree/main)
+- [AWS Cloud Practitioner Notes](https://kananinirav.com/)
+##### AWS Certified Data Engineer Associate
+
+- [Udemy: AWS Data Engineer Associate Certification Course](https://www.udemy.com/course/aws-data-engineer/) (Paid)
 
 ## Contribution
 
