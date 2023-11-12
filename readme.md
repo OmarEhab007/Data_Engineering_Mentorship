@@ -13,6 +13,7 @@ This repository contains a list of learning resources organized by levels for va
 - [SQLBolt](https://sqlbolt.com/lesson/introduction)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/)
+- [HackerRank SQL problems](https://www.hackerrank.com/domains/sql)
 - "Learning SQL, 2nd Edition" (Skip Chapters 1, 2, 15)
 - "Database System Concepts, 7th Edition" (Chapters 3, 4, 5, 15, 16)
 - [CMU - Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7&si=Gj7a2VXK2FWmQXVc) **Advanced** | (First 15 sessions or at least the first 2 sessions)
@@ -94,7 +95,19 @@ This repository contains a list of learning resources organized by levels for va
 
 ### Networking
 
-- [Intro into Networking Fundamentals](https://www.youtube.com/watch?v=6hPMdpk9qA4&list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1) 
+- [Intro into Networking Fundamentals](https://www.youtube.com/watch?v=6hPMdpk9qA4&list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1)
+
+### Cloud
+
+#### Amazon Web Services
+##### Cloud Practitioner (Cloud Foundations)
+
+- [AWS Skill Builder: Cloud Essentials](https://explore.skillbuilder.aws/learn/lp/82/cloud-essentials-knowledge-badge-readiness-path)
+- [Kenneth Leungty: Certified Cloud Practitioner Notes](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes/tree/main)
+- [AWS Cloud Practitioner Notes](https://kananinirav.com/)
+##### AWS Certified Data Engineer Associate
+
+- [Udemy: AWS Data Engineer Associate Certification Course](https://www.udemy.com/course/aws-data-engineer/) (Paid)
 
 ## Contribution
 
