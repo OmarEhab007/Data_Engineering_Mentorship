@@ -19,7 +19,7 @@ This repository contains a list of learning resources organized by levels for va
 
 ### Data Modeling
 
-- Data Modeling, A Beginner's Guide (not found)
+- Data Modeling Essentials, 3rd edition **Advanced** (Chapters 1,2,3,5,6,8,10,11,12)
 - [PK Group Data Modeling](https://pk-group.weebly.com/)
 - [Data Modeling Essentials](https://pk-group.weebly.com/data-modeling-essentials.html)
 - [Bank Data Model](https://dwbi1.wordpress.com/2012/04/28/bank-data-model/)
