@@ -2,6 +2,9 @@
 
 This repository contains a list of learning resources organized by levels for various topics. Choose the level that matches your skill and knowledge to find appropriate resources for your learning journey.
 
+![image](https://github.com/ahmedshaaban1999/Data_Engineering_Mentorship/assets/16938470/6444176f-cd80-419d-9ddc-36cc6f455eff)
+
+
 ## Level 1
 
 ### SQL
