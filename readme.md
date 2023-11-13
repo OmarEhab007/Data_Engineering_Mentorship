@@ -4,8 +4,20 @@ This repository contains a list of learning resources organized by levels for va
 
 ![image](https://github.com/ahmedshaaban1999/Data_Engineering_Mentorship/assets/16938470/6444176f-cd80-419d-9ddc-36cc6f455eff)
 
+## Professional Certificates
+
+- [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) (Comprises of 13 Data Engineering courses)
 
 ## Level 1
+
+### Theoretical
+
+- [Big Data 101](https://cognitiveclass.ai/courses/what-is-big-data)
+- [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud)
+
+### Python
+
+- [Python Basics for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 
 ### SQL
 
@@ -18,6 +30,10 @@ This repository contains a list of learning resources organized by levels for va
 - "Database System Concepts, 7th Edition" (Chapters 3, 4, 5, 15, 16)
 - [CMU - Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g) **Advanced** | (First 15 sessions or at least the first 2 sessions)
 
+### Linux
+
+- [Getting started with Linux Terminal Commands](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX06VPEN+v1)
+
 ### Data Modeling
 
 - Data Modeling Essentials, 3rd edition **Advanced** (Chapters 1,2,3,5,6,8,10,11,12)
@@ -28,12 +44,16 @@ This repository contains a list of learning resources organized by levels for va
 
 ### Docker
 
-- [Docker سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ) 
+- [Docker سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
+- [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials)
+- [Working with Containers, Docker, and the IBM Cloud Container Registry](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX09B2EN+v1)
 
 ### Spark
 
 - [Spark Foundation Training](https://www.learningjournal.guru/courses/spark/spark-foundation-training/)
 - [Apache Spark & Scala Tutorial Videos (2022 Updated)](https://www.youtube.com/playlist?list=PLEiEAq2VkUUK3tuBXyd01meHuDj7RLjHv)
+- [Spark Fundamentals](https://cognitiveclass.ai/courses/what-is-spark)
+- [SparkByExamples - Spark Tutorials](https://sparkbyexamples.com/pyspark-tutorial/)
 - "Learning Spark"
 - "Apache Spark with Python - Big Data with PySpark and Spark" (Course)
 
@@ -41,6 +61,7 @@ This repository contains a list of learning resources organized by levels for va
 
 - "Hadoop: The Definitive Guide 4th Edition" (Part 1 only)
 - [Hadoop Foundation Training](https://www.learningjournal.guru/courses/hadoop/hadoop-foundation-training/) (Hadoop basics only)
+- [Introduction to Hadoop](https://cognitiveclass.ai/courses/introduction-to-hadoop)
 
 ### Hive
 
