@@ -4,16 +4,7 @@ This repository contains a list of learning resources organized by levels for va
 
 ![image](https://github.com/ahmedshaaban1999/Data_Engineering_Mentorship/assets/16938470/6444176f-cd80-419d-9ddc-36cc6f455eff)
 
-## Professional Certificates
-
-- [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) (Comprises of 13 Data Engineering courses)
-
 ## Level 1
-
-### Theoretical
-
-- [Big Data 101](https://cognitiveclass.ai/courses/what-is-big-data)
-- [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud)
 
 ### Python
 
@@ -29,10 +20,6 @@ This repository contains a list of learning resources organized by levels for va
 - "Learning SQL, 2nd Edition" (Skip Chapters 1, 2, 15)
 - "Database System Concepts, 7th Edition" (Chapters 3, 4, 5, 15, 16)
 - [CMU - Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g) **Advanced** | (First 15 sessions or at least the first 2 sessions)
-
-### Linux
-
-- [Getting started with Linux Terminal Commands](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX06VPEN+v1)
 
 ### Data Modeling
 
@@ -77,8 +64,9 @@ This repository contains a list of learning resources organized by levels for va
 
 - [Atlassian Git Tutorial](https://www.atlassian.com/git)
 
-### Bash Scripting
+### Linux
 
+- [Getting started with Linux Terminal Commands](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX06VPEN+v1)
 - [Bash Scripting Tutorial for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 
 ### File Formats
