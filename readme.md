@@ -4,8 +4,11 @@ This repository contains a list of learning resources organized by levels for va
 
 ![image](https://github.com/ahmedshaaban1999/Data_Engineering_Mentorship/assets/16938470/6444176f-cd80-419d-9ddc-36cc6f455eff)
 
-
 ## Level 1
+
+### Python
+
+- [Python Basics for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 
 ### SQL
 
@@ -28,12 +31,16 @@ This repository contains a list of learning resources organized by levels for va
 
 ### Docker
 
-- [Docker سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ) 
+- [Docker سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
+- [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials)
+- [Working with Containers, Docker, and the IBM Cloud Container Registry](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX09B2EN+v1)
 
 ### Spark
 
 - [Spark Foundation Training](https://www.learningjournal.guru/courses/spark/spark-foundation-training/)
 - [Apache Spark & Scala Tutorial Videos (2022 Updated)](https://www.youtube.com/playlist?list=PLEiEAq2VkUUK3tuBXyd01meHuDj7RLjHv)
+- [Spark Fundamentals](https://cognitiveclass.ai/courses/what-is-spark)
+- [SparkByExamples - Spark Tutorials](https://sparkbyexamples.com/pyspark-tutorial/)
 - "Learning Spark"
 - "Apache Spark with Python - Big Data with PySpark and Spark" (Course)
 
@@ -41,6 +48,7 @@ This repository contains a list of learning resources organized by levels for va
 
 - "Hadoop: The Definitive Guide 4th Edition" (Part 1 only)
 - [Hadoop Foundation Training](https://www.learningjournal.guru/courses/hadoop/hadoop-foundation-training/) (Hadoop basics only)
+- [Introduction to Hadoop](https://cognitiveclass.ai/courses/introduction-to-hadoop)
 
 ### Hive
 
@@ -56,8 +64,9 @@ This repository contains a list of learning resources organized by levels for va
 
 - [Atlassian Git Tutorial](https://www.atlassian.com/git)
 
-### Bash Scripting
+### Linux
 
+- [Getting started with Linux Terminal Commands](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX06VPEN+v1)
 - [Bash Scripting Tutorial for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 
 ### File Formats
