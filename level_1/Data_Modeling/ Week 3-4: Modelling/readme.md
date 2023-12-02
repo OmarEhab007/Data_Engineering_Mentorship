@@ -1,37 +1,38 @@
-## To-Do List
+# Data Modeling Resources
 
-- [Big Data Engineering In Depth](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)
+## Resources
 
-### 18/11
-- [ ] Garage Education Videos 1-5
-- [ ] Data Warehouse Toolkit Pages 1-10
+1. **Kimball The Data Warehouse Toolkit:**
+   - [Link to PDF](https://github.com/OmarEhab007/Data_Engineering_Mentorship/blob/main/level_1/Data_Modeling/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf)
 
-### 19/11
-- [ ] Garage Education Videos 6-10
-- [ ] Data Warehouse Toolkit Pages 11-20
+2. **Garage Education Playlist:**
+   - [YouTube Playlist](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)
 
-### 20/11
-- [ ] Garage Education Videos 11-15
-- [ ] Data Warehouse Toolkit Pages 21-30
+## Topics
 
-### 21/11
-- [ ] Garage Education Videos 16-20
-- [ ] Data Warehouse Toolkit Pages 31-40
+1. **Introduction to Data Modeling**
+   - From Playlist: Ch.02-16 Data Modeling | DWH Architecture
+   - From Book: Chapter-1 (Pages 7-16)
 
-### 22/11
-- [ ] Garage Education Videos 21-25
-- [ ] Data Warehouse Toolkit Pages 41-50
+2. **Kimball’s DW/BI Architecture**
+   - From Book: Chapter-1 (Pages 18-26)
+   - From Playlist: Ch.02-35 Kimball vs Inmon | Data Modeling
 
-### 23/11
-- [ ] Garage Education Videos 26-30
-- [ ] Data Warehouse Toolkit Pages 51-60
+3. **Fundamental Concepts**
+   - From Book: Chapter-2 (Pages 36-40)
 
-### 24/11
-- [ ] Garage Education Videos 30-35
-- [ ] Data Warehouse Toolkit Pages 61-70
+4. **Fact Table Techniques**
+   - From Playlist: Ch.02-29 Fact Tables | Data Modeling | DWH Architecture
+   - From Book: Chapter-2 (Pages 41-45)
 
-### 25/11
-- [ ] Retail use case from Kimbal book
+5. **Dimension Table Techniques**
+   - From Playlist Videos: (22-33)
+    *From "Ch.02-17 Dimension Types: Conformed Dimension" to "Ch.02-27 Dimension Types: Swappable Dimension"*
+   - From Book: Chapter-2 (Pages 46-50)
+   - MindMap for Revision: [Link to XMind](https://xmind.app/m/DmCAdW/)
+
+6. **Retail Sales Use Case**
+   - From Book: Chapter-3
 
 ```
 Tasks created by Youssef Etman
