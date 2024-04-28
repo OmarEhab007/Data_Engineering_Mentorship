@@ -11,9 +11,10 @@ TMDB dataset on git project folder
 
 ## Requirements:
 1. Load the csv file from the local FS to HDFS.
-2. Get the most popular film in each original language
+2. Create a local file called popular_film_per_lan.csv with each original language and the most popular film in each.
 3. Create a new file on HDFS called Genres_Agggregations.csv with the id, name and number of movies for each genre.
 
 ## Key Deliverables:
 -	Python code creating the files and populating them.
 -	Genres_Aggregations.csv file
+- popular_film_per_lan.csv file
