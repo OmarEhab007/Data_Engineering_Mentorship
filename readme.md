@@ -1,3 +1,6 @@
+# Important Notice
+This repo is no longer maintained. The latest maintained version can be found [here](https://github.com/ahmedshaaban1999/Data_Engineering_Mentorship/tree/main)
+
 # Learning Resources
 
 This repository contains a list of learning resources organized by levels for various topics. Choose the level that matches your skill and knowledge to find appropriate resources for your learning journey.
